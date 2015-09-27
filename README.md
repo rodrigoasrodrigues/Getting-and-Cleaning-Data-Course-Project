@@ -1,3 +1,5 @@
+To run the function the script must be in the data directory (UCI HAR Dataset)
+
 The data returned by the function will return the following colomuns (all the variables summarized by Subject and Activity):
 
 * Subject
